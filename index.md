@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## The Effect of Zero Emission Credits in Illinois and New York on Wholesale Power Market and Environmental Outcomes
 
-You can use the [editor on GitHub](https://github.com/lkkinetic/ZECs-research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Abstract:** Nuclear power plants are facing financial challenges in competitive wholesale power markets due to three coinciding factors in the mid-2000s: falling natural gas prices and increased natural gas generation capacity, increases in wind generation capacity arising from renewable portfolio standard (RPS) regulations, and stagnant electricity demand. New York and Illinois have implemented new regulations requiring utilities and load-serving entities to purchase Zero Emission Credits (ZECs), with proceeds returned as revenue to participating nuclear power plants. We use a difference-in-differences regression analysis to examine ZEC program effects on generation, wholesale and retail prices, and air quality. We find that nuclear generation increased in both states as a result of the ZEC programs, increasing renewable generation in Illinois and reducing coal generation in New York. Wholesale prices fell in both states, and retail prices fell slightly in Illinois and rose in New York.  Finally, we find local air quality improvements in both states, as well as a significant short-run decrease in carbon dioxide emissions in New York.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository contains the most recent working paper version, the online appendix to the paper, and the data and Stata files used in the analysis.
 
-### Markdown
+- [Working paper](https://github.com/lkkinetic/ZECs-research/blob/main/Adler%20Kiesling%20ZECs%20working%20paper.pdf), 2 April 2021
+- [Online appendix](https://github.com/lkkinetic/ZECs-research/blob/main/Adler%20Kiesling%20ZECs%20Appendix.pdf), 2 April 2021
+- [Folder](https://github.com/lkkinetic/ZECs-research/tree/main/WKP) containing data files, Stata do files, and a README document accompanying the Stata do files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lkkinetic/ZECs-research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
